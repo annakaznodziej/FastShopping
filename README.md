@@ -1,3 +1,11 @@
+Cześć. Mój mail pewnie wpadł do SPAMu. Czy byłbyś zainteresowany pracą przy e-commerce w EENGINE SH? Chętnie opowiem Ci o firmie i przedstawię warunki.
+
+Pozdrawiam serdecznie
+Ania Kaznodziej
+
+
+
+
 <div align="center">
 
 ![Fast Shopping logo][app-logo]
